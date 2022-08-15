@@ -1,4 +1,4 @@
-<h2> Hi, I'm Abdelrhman! <img src="https://3.bp.blogspot.com/-b67qo3Zk2mM/XNN_-5CUQ3I/AAAAAAAMh1Y/kRRa6QXNk60Gd_Ids6_1MvVeoOZsMMTXQCLcBGAs/s1600/AS0005264_09.gif" width="70"></h2>
+<h2  align="center"> Hi, I'm Abdelrhman! <img src="https://3.bp.blogspot.com/-b67qo3Zk2mM/XNN_-5CUQ3I/AAAAAAAMh1Y/kRRa6QXNk60Gd_Ids6_1MvVeoOZsMMTXQCLcBGAs/s1600/AS0005264_09.gif" width="70"></h2>
 <img align='right' src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/D75kF1uhr6ZLzexQq2/giphy.gif" width="100"></p>
 
@@ -35,7 +35,17 @@ class Abdelrhman {
 ```
 ### My Skills <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<img alt='skills' src="https://telegra.ph/file/dbc9b6ffd1add9e83614d.jpg" >
+<img style="margin:100px" alt='skills' src="https://telegra.ph/file/dbc9b6ffd1add9e83614d.jpg" >
+
+### Github
+
+![Abdelrhman GitHub stats](https://github-readme-stats.vercel.app/api?username=Mov305&show_icons=true&theme=radical)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mov305&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+[![Abdelrhman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mov305)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
