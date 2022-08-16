@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abdelrhman%20Samy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrhman-samy-80b14b215/)](https://www.linkedin.com/in/abdelrhman-samy-80b14b215/)
 [![Twitter Badge](https://img.shields.io/badge/-@Mov_abd_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mov_abd)](https://twitter.com/Mov_abd)
 [![facebook Badge](https://img.shields.io/badge/-Abdelrhman%20Samy-informational?style=flat-square&labelColor=black&logo=facebook&link=https://www.facebook.com/Mov305)](https://www.facebook.com/Mov305)
+<img src="https://komarev.com/ghpvc/?username=Mov305&label=Profile%20views&color=0e75b6&style=flat" alt="rebaz36" />
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me 💬...  
 
