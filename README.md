@@ -14,7 +14,7 @@
 ```
 Hi, I am a freelance Web Developer with +3 years of experience 🔭, 
 a UI Designer and Mechanical Engineering student (3rd year), specializing in Web applications.
-I am Egyptian, born in a city at the cost called Damietta. I joined Damietta University in 2019 👯.
+I am Egyptian, born in a city at the coast called Damietta. I joined Damietta University in 2019 👯.
 I love music, cooking, typing, and coding. So Hire me if you wanna work together on your next project😄
 ```
 
@@ -36,7 +36,15 @@ class Abdelrhman {
 ```
 ### My Skills <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<img style="margin:100px" alt='skills' src="https://telegra.ph/file/dbc9b6ffd1add9e83614d.jpg" >
+<img width='70%' alt='skills' src="https://telegra.ph/file/9b19ebb62ec0967473e93.jpg" >
+<br>
+<img width='70%' alt='skills' src="https://telegra.ph/file/9218559e9c6a17c31b785.jpg" >
+<br>
+<img width='70%' alt='skills' src="https://telegra.ph/file/18d9574768a6feca18702.jpg" >
+<br>
+<img width='70%' alt='skills' src="https://telegra.ph/file/5ed98dae5014487087949.jpg" >
+<br>
+<img width='70%' alt='skills' src="https://telegra.ph/file/318e802d9a08aab1b834b.jpg" >
 
 ### Github
 
