@@ -36,14 +36,14 @@ class Abdelrhman {
 ```
 <h3 align="center"> My Skills <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"> <h3> 
 <div align = "center" >
-<img align = "center" width='70%' alt='skills' src="https://telegra.ph/file/9b19ebb62ec0967473e93.jpg" >
-<br>
+<img width='70%' alt='skills' src="https://telegra.ph/file/9b19ebb62ec0967473e93.jpg" >
+<br><br>
 <img width='70%' alt='skills' src="https://telegra.ph/file/9218559e9c6a17c31b785.jpg" >
-<br>
+<br><br>
 <img width='70%' alt='skills' src="https://telegra.ph/file/18d9574768a6feca18702.jpg" >
-<br>
+<br><br>
 <img width='70%' alt='skills' src="https://telegra.ph/file/5ed98dae5014487087949.jpg" >
-<br>
+<br><br>
 <img width='70%' alt='skills' src="https://telegra.ph/file/318e802d9a08aab1b834b.jpg" >
 
 ### Github
