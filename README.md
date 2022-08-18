@@ -34,9 +34,9 @@ class Abdelrhman {
   }
 };
 ```
-### My Skills <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-<img width='70%' alt='skills' src="https://telegra.ph/file/9b19ebb62ec0967473e93.jpg" >
+<h3 align="center"> My Skills <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"> <h3> 
+<div align = "center" >
+<img align = "center" width='70%' alt='skills' src="https://telegra.ph/file/9b19ebb62ec0967473e93.jpg" >
 <br>
 <img width='70%' alt='skills' src="https://telegra.ph/file/9218559e9c6a17c31b785.jpg" >
 <br>
@@ -56,7 +56,7 @@ class Abdelrhman {
 <br>
 [![Abdelrhman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mov305)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <p>You can check out my portfolio <a href="https://abdelrhman.vercel.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
