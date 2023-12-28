@@ -53,8 +53,6 @@ class Abdelrhman {
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mov305&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<br>
-[![Abdelrhman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mov305)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
