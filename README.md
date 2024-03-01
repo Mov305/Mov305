@@ -25,12 +25,8 @@ class Abdelrhman {
   }
   
   static getUp(){
-    let saying = this.feeling.includes(motivated) ? "Today is a great day" : " I'll make today a great day";
+    let saying = this.feeling[0] ? "Today is a great day" : " I'll make today a great day";
     return saying
-  }
-  
-  adventure() {
-     return this.felling.includes(enthuiasm) ? "Let us start a new journey together" : " There is now skip the trip is waiting for ya";
   }
 };
 ```
