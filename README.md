@@ -12,10 +12,11 @@
 <h3> Abdelrhman ⚡ </h3>
 
 ```
-Hi, I am a freelance Web Developer with +3 years of experience 🔭, 
-a UI Designer and Mechanical Engineering student (3rd year), specializing in Web applications.
-I am Egyptian, born in a city at the coast called Damietta. I joined Damietta University in 2019 👯.
-I love music, cooking, typing, and coding. So Hire me if you wanna work together on your next project😄
+Passionate full-stack developer with 3+ years of experience as a freelancer building and shipping software solutions.
+Proficient in cutting-edge technologies. Experienced with React, Next.js, and Ruby on Rails.
+Quickly masters new technologies and thrives when collaborating and pair programming.
+Eager to join a forward-thinking company pushing technological boundaries.
+Bring a learner's mindset, creative problem-solving, and commitment to shipping quality products users love.
 ```
 
 ```javascript
