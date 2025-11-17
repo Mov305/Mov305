@@ -1,47 +1,99 @@
-<h2  align="center"> Hi, I'm Abdelrhman! <img src="https://3.bp.blogspot.com/-b67qo3Zk2mM/XNN_-5CUQ3I/AAAAAAAMh1Y/kRRa6QXNk60Gd_Ids6_1MvVeoOZsMMTXQCLcBGAs/s1600/AS0005264_09.gif" width="70"></h2>
-<img align='right' src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/D75kF1uhr6ZLzexQq2/giphy.gif" width="100"></p>
+<h1 align="center">
+  Hi there, I'm Abdelrhman! 👋
+</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdelrhman%20Samy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelrhman-samy-80b14b215/)](https://www.linkedin.com/in/abdelrhman-samy-80b14b215/)
-[![Twitter Badge](https://img.shields.io/badge/-@Mov_abd_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mov_abd)](https://twitter.com/Mov_abd)
-[![facebook Badge](https://img.shields.io/badge/-Abdelrhman%20Samy-informational?style=flat-square&labelColor=black&logo=facebook&link=https://www.facebook.com/Mov305)](https://www.facebook.com/Mov305)
-<img src="https://komarev.com/ghpvc/?username=Mov305&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman" />
+<h3 align="center">
+  Senior Full-Stack Developer | React, React Native, AI & Ruby on Rails
+</h3>
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me 💬...  
+<br>
 
-<h3> Abdelrhman ⚡ </h3>
+<p align="right">
+  <img alt="Coding" width="230" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</p>
 
-```
-Passionate full-stack developer with 3+ years of experience as a freelancer building and shipping software solutions.
-Proficient in cutting-edge technologies. Experienced with React, Next.js, and Ruby on Rails.
-Quickly masters new technologies and thrives when collaborating and pair programming.
-Eager to join a forward-thinking company pushing technological boundaries.
-Bring a learner's mindset, creative problem-solving, and commitment to shipping quality products users love.
-```
+### 🚀 About Me
+
+I'm a full-stack developer with **5+ years of experience**, skilled in building and shipping complete software solutions from scratch. I thrive in collaborative environments and am always eager to learn and apply new technologies.
+
+* 💼 &nbsp; **Currently:** Seeking a challenging remote role in a forward-thinking company.
+* 🤖 &nbsp; **Proficient in:** Building and integrating **AI-powered applications**.
+* 🌱 &nbsp; **Learning:** Always mastering new technologies and modern web practices.
+* 🤝 &nbsp; **Interests:** Pair programming, creative problem-solving, and pushing boundaries.
+* 🎯 &nbsp; **Goal:** To build high-quality, high-impact products that users love.
+
+<br>
+
+### 🛠️ My Core Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+<br>
+
+### ⚡ My Digital Self
+
+Here's a little more about me in code!
 
 ```javascript
-class Abdelrhman {
-  constructor(motivated,enthusiasm) {
-    this.feeling = [motivated, enthusiasm];
-  }
-  
-  static getUp(){
-    let saying = this.feeling[0] ? "Today is a great day" : " I'll make today a great day";
-    return saying
+const abdelrhman = {
+  pronouns: "He/Him",
+  role: "Senior Full-Stack Developer",
+  experience: "5+ years",
+  coreSkills: [
+    "React", 
+    "React Native", 
+    "Next.js", 
+    "Ruby on Rails", 
+    "AI Applications"
+  ],
+  status: {
+    isMotivated: true,
+    isLearning: true,
+    isReadyForAdventure: true,
+  },
+  getMotivation: () => {
+    if (abdelrhman.status.isMotivated) {
+      return "Today is a great day to build something new!";
+    } else {
+      return "I'll make today a great day!"; // Self-motivation
+    }
   }
 };
-```
-<div align = "center" >
 
-### Github
+console.log(abdelrhman.getMotivation());
+````
 
-![Abdelrhman GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=mov305&show_icons=true&theme=radical)
 <br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mov305&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+### 📊 My Stats & Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mov305&show_icons=true&theme=radical" alt="WakaTime Stats" width="400">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mov305&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
-<p>You can check out my portfolio <a href="https://abdelrhman.vercel.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<br>
 
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrhman-samy-80b14b215/">
+    <img src="https://img.shields.io/badge/-Abdelrhman%20Samy-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Mov_abd">
+    <img src="https://img.shields.io/badge/-@Mov_abd_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://abdelrhman.vercel.app">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-green?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mov305&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views">
+</p>
